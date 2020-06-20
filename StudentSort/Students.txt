@@ -1,0 +1,12 @@
+Charles	Carson	2/14/2000	Sociology	2.43
+Thomas	Barrow	4/6/1999	English	2.87
+Mary	Crawley	2/17/1999	Education	2.52
+Daisy	Mason	8/20/2000	Biology	3.27
+John	Bates	6/21/1999	History	2.29
+Matthew	Crawley	5/26/2000	Sociology	2.20
+Anna	Smith	8/29/2002	History	2.18
+Tom	Branson	7/23/2000	Sociology	3.29
+Robert	Crawley	7/21/2001	Sociology	2.16
+Sarah	O'Brien	5/19/2001	French	3.91
+Kylie	Jenner	4/10/1997	ApparelDesign	3.87
+Leonardo	Dicaprio	11/11/1974	Theater	1.0
